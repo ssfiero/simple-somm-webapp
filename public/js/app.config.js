@@ -12,7 +12,7 @@
     $stateProvider
       .state({
         name: 'home',
-        url: '/',
+        url: '/public/',
         component: 'home',
       })
   }
